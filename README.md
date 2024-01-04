@@ -1,5 +1,10 @@
 # Media_Lab
-Curso_Diplomado
+Curso_Diplomado:
+
 Alumnos
+
 Katia
+
 Ronald
+
+Carelia
